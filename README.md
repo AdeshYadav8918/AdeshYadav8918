@@ -4,7 +4,8 @@ I'm currently working on Skill development in Cyber Security<br>I'm looking to c
 
 
 ## 🌐 Socials:
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/BlackMafia8918.png "Your Image Badge")](https://tryhackme.com)
+[![TryHackMe](<img src="https://tryhackme-badges.s3.amazonaws.com/BlackMafia8918.png" alt="Your Image Badge" />)](https://tryhackme.com)
+***[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/BlackMafia8918.png "Your Image Badge")](https://tryhackme.com)***
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lone_wolf3178) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/AadeshYadav) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/yadavaadesh309) 
