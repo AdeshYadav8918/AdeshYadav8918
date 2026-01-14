@@ -43,6 +43,10 @@ I'm currently working on Skill development in Cyber Security<br>I'm looking to c
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![NMap](https://img.shields.io/badge/Nmap-%23000000.svg?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6B6B?style=for-the-badge&logo=Burp%20Suite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596be?style=for-the-badge&logo=Metasploit&logoColor=white)
+![IDA Pro](https://img.shields.io/badge/IDA%20Pro-000000?style=for-the-badge&logo=IDA%20Pro&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/Docker%20Hub-2496ED?style=for-the-badge&logo=Docker&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=AdeshYadav8918&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=AdeshYadav8918&theme=dark&hide_border=false)<br/>
